@@ -1,5 +1,16 @@
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div>
+<a href="https://www.linkedin.com/in/anass-el-jazouly/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-
+<a href="anass.eljazouly@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/> 
+	</div>
+</div>
 <p align="center">
     <a href="https://www.linkedin.com/in/youssef-ait-abdellah/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
@@ -12,24 +23,7 @@ I'm a software developer who is passionate about creating technology to elevate 
 - 🔭 I'm a software developer [@collasale](https://collasale.ma/) in Casablanca, Morocoo
 - 💬 Ask me about **Angular and Frontend**
 
-
-<img src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" height="300px" width="1300px"/>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-	<div>
-		<a href="https://www.linkedin.com/in/anass-el-jazouly/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="anass.eljazouly@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<br/> 
-	</div>
-</div>
-
-
-<h1>Hello There! 👋</h1>
+<h1>👋 Hello There!</h1>
 ## Hello There!
 #### My name is *YOUSSEF AIT ABDELLAH* I'm a 27 years old *Software Engineer*.
 - 🏦  Currently looking for an internship as a Full-stack developer.
