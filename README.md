@@ -9,18 +9,13 @@
 		</a>	
 	</div>
 </div>
- 
-  <img src="https://photos.google.com/photo/AF1QipNwFH4069mTIyuUSQn1Yeyx8BdjsU39C01tHIWd" align="right" width="25%"/>
-
-
+<h1>👋 Hello There!</h1>
+#### My name is *YOUSSEF AIT ABDELLAH* I'm a 27 years old *Software Engineer*.
 I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, Angular, java, Spring Boot
 
 - 🔭 I'm a software developer [@collasale](https://collasale.ma/) in Casablanca, Morocoo
 - 💬 Ask me about **Angular and Frontend**
 
-<h1>👋 Hello There!</h1>
-## Hello There!
-#### My name is *YOUSSEF AIT ABDELLAH* I'm a 27 years old *Software Engineer*.
 - 🏦  Currently looking for an internship as a Full-stack developer.
 <!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
 - 📚 Have a solid foundation in Mathematics, Physics and Web Technologies.
