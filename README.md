@@ -6,22 +6,10 @@
 		</a>
 		<a href="youssef.aitabdd@gmail.com" target="_blank">
 			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-		</a>
-		
-		
-		<a href="https://www.linkedin.com/in/youssef-ait-abdellah/">
-			<img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/>
-		</a>
-		<a href="youssef.aitabdd@gmail.com">
-			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 		</a>	
 	</div>
 </div>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/youssef-ait-abdellah/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  </p>
-  
+ 
   <img src="https://github.com/mohamedabusrea/youssef-aitabdelah/blob/master/profile-img.png" align="right" width="25%"/>
 
 
