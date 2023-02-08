@@ -10,16 +10,14 @@
 	</div>
 </div>
 <h1>👋 Hello There!</h1>
-<h3>
 My name is YOUSSEF AIT ABDELLAH I'm a 27 years old Software Engineer who is passionate about creating technology . Some technologies I enjoy working with include Javascript, Angular, java, Spring Boot.
-</h3>
 - 🏦  Currently looking for an internship as a Full-stack developer.
 - 📚 Have a solid foundation in Mathematics, Physics and Web Technologies.
 - 💻 Proficient in **Angular**, **Java** , **SQL** and **Javascript**.
 - 📖 Languages: English-Français-العربية
 - 💬 Ask me about **Angular and Frontend**
-
-<br/><br/>
+<br/>
+<br/>
 <p align="center">
 	<!--React-->
 	<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="React" width="55" height="55"/>
