@@ -35,11 +35,3 @@ My name is YOUSSEF AIT ABDELLAH I'm a 27 years old Software Engineer who is pass
 	<!--Linux-->
 	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
 </p>
-<br/>
-
-<div align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=anasseljazouly&theme=neon-palenight&background=1A1B27&border=E4E2E2&stroke=E4E2E2"/></a>
-</div>
-
-
-
