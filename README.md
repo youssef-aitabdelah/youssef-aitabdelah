@@ -10,21 +10,18 @@
 	</div>
 </div>
 <h1>👋 Hello There!</h1>
-My name is **YOUSSEF AIT ABDELLAH** I'm a 27 years old **Software Engineer** who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, Angular, java, Spring Boot
+My name is YOUSSEF AIT ABDELLAH I'm a 27 years old Software Engineer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, Angular, java, Spring Boot
 
 - 🏦  Currently looking for an internship as a Full-stack developer.
-- 🔭 I'm a software developer [@collasale](https://collasale.ma/) in Casablanca, Morocoo
-<!-- - 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)-->
 - 📚 Have a solid foundation in Mathematics, Physics and Web Technologies.
 - 💻 Proficient in **Angular**, **Java** , **SQL** and **Javascript**.
 - 📖 Languages: English-Français-العربية
 - 💬 Ask me about **Angular and Frontend**
+
 <br/><br/>
 <p align="center">
 	<!--React-->
 	<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="React" width="55" height="55"/>
-      	<!--Node JS -->
-	<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
      	<!--Spring Boot-->
 	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
 	<!--PhP-->
