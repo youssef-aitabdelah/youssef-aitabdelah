@@ -1,16 +1,17 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<div>
-<a href="https://www.linkedin.com/in/anass-el-jazouly/" target="_blank">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="anass.eljazouly@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<br/> 
+	<div>
+		<a href="https://www.linkedin.com/in/anass-el-jazouly/" target="_blank">
+			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+		</a>
+		<a href="anass.eljazouly@gmail.com" target="_blank">
+			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+		</a>
+		<a href="https://www.linkedin.com/in/youssef-ait-abdellah/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+		<br/>
 	</div>
 </div>
+
 <p align="center">
     <a href="https://www.linkedin.com/in/youssef-ait-abdellah/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
