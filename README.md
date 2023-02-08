@@ -11,7 +11,7 @@
 </div>
 <h1>👋 Hello There!</h1>
 <h3>
-My name is YOUSSEF AIT ABDELLAH I'm a 27 years old Software Engineer who is passionate about creating technology . Some technologies I enjoy working with include Javascript, Angular, java, Spring Boot
+My name is YOUSSEF AIT ABDELLAH I'm a 27 years old Software Engineer who is passionate about creating technology . Some technologies I enjoy working with include Javascript, Angular, java, Spring Boot.
 </h3>
 - 🏦  Currently looking for an internship as a Full-stack developer.
 - 📚 Have a solid foundation in Mathematics, Physics and Web Technologies.
