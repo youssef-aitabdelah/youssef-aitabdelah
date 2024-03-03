@@ -10,15 +10,15 @@
 	</div>
 </div>
 
-<h1 align="center">👋 Hello There!</h1>
-<p align="center">I'm Youssef Ait Abdellah, a Software Engineer passionate about leveraging technology to create innovative solutions. I specialize in technologies such as JavaScript, Angular, Java, and Spring Boot.</p>
+<h1 align="center">👋 Bonjour !</h1>
+<p align="center">Je suis Youssef Ait Abdellah, un ingénieur logiciel passionné par l'utilisation de la technologie pour créer des solutions innovantes. Je me spécialise dans des technologies telles que JavaScript, Angular, Java et Spring Boot.</p>
 
 <ul align="left">
-	<li>🏦 Currently working as a Full-stack Developer.</li>
-	<li>📚 Strong background in Mathematics, Physics, and Web Technologies.</li>
-	<li>💻 Proficient in Angular, Java, SQL, and JavaScript.</li>
-	<li>📖 Fluent in English, Français, and العربية.</li>
-	<li>💬 Feel free to reach out to me for discussions on Angular and Frontend development.</li>
+	<li>🏦 Actuellement en poste en tant que développeur full-stack.</li>
+	<li>📚 Solide formation en mathématiques, physique et technologies web.</li>
+	<li>💻 Compétent en Angular, Java, SQL et JavaScript.</li>
+	<li>📖 Fluent en anglais, français et arabe.</li>
+	<li>💬 N'hésitez pas à me contacter pour discuter d'Angular et du développement frontend.</li>
 </ul>
 
 <p align="">
