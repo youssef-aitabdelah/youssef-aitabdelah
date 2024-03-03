@@ -21,7 +21,7 @@
 	<li>💬 Feel free to reach out to me for discussions on Angular and Frontend development.</li>
 </ul>
 
-<p align="center">
+<p align="">
 	<!-- Angular -->
 	<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
 	<!-- Spring Boot -->
