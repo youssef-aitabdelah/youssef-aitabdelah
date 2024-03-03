@@ -22,18 +22,22 @@
 </ul>
 
 <p align="">
-	<!-- Angular -->
-	<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
-	<!-- Spring Boot -->
-	<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
-	<!-- PHP -->
-	<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="70" height="55"/>
-	<!-- MySQL -->
-	<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="70" height="55"/>
-	<!-- MongoDB -->
-	<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="70" height="55"/>
-	<!-- Git -->
-	<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/> 
-	<!-- Linux -->
-	<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
+    <!-- Angular -->
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
+    <!-- Spring Boot -->
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
+    <!-- PHP -->
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="70" height="55"/>
+    <!-- MySQL -->
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="70" height="55"/>
+    <!-- MongoDB -->
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="70" height="55"/>
+    <!-- Git -->
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/> 
+    <!-- Linux -->
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
+    <!-- Vue.js -->
+    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" width="55" height="55"/> 
+    <!-- Node.js -->
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="55" height="55"/> 
 </p>
