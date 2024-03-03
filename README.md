@@ -13,8 +13,8 @@
 <h1 align="center">👋 Hello There!</h1>
 <p align="center">I'm Youssef Ait Abdellah, a Software Engineer passionate about leveraging technology to create innovative solutions. I specialize in technologies such as JavaScript, Angular, Java, and Spring Boot.</p>
 
-<ul align="center">
-	<li>🏦 Currently seeking an internship as a Full-stack Developer.</li>
+<ul align="left">
+	<li>🏦 Currently working as a Full-stack Developer.</li>
 	<li>📚 Strong background in Mathematics, Physics, and Web Technologies.</li>
 	<li>💻 Proficient in Angular, Java, SQL, and JavaScript.</li>
 	<li>📖 Fluent in English, Français, and العربية.</li>
