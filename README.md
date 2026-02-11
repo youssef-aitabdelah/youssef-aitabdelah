@@ -1,43 +1,77 @@
-<div id="header" align="center">
-	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-	<div>
-		<a href="https://www.linkedin.com/in/youssef-ait-abdellah/" target="_blank">
-			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-		</a>
-		<a href="mailto:yussef.aitabdellah@gmail.com" target="_blank">
-			<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-		</a>	
-	</div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
+
+# 👋 Bonjour, je suis Youssef Ait Abdellah
+
+### 💻 Full Stack Software Engineer | Java • Angular • Spring Boot • Node.js
+
+<p>
+  <a href="https://www.linkedin.com/in/youssef-ait-abdellah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Ait%20Abdellah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yussef.aitabdellah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
-<h1 align="center">👋 Bonjour !</h1>
-<p align="center">Je suis Youssef Ait Abdellah, un ingénieur logiciel passionné par l'utilisation de la technologie pour créer des solutions innovantes. Je me spécialise dans plusieurs langages de programmation et frameworks, notamment JavaScript (avec une expertise particulière dans Angular), Java et Spring Boot.</p>
+---
 
-<ul align="left">
-	<li>🏦 Actuellement en poste en tant que développeur full-stack.</li>
-	<li>📚 Solide formation en mathématiques, physique et technologies web.</li>
-	<li>💻 Compétent en Angular, Java, SQL et JavaScript.</li>
-	<li>📖 Fluent en anglais, français et arabe.</li>
-	<li>💬 N'hésitez pas à me contacter pour discuter d'Angular et du développement frontend.</li>
-</ul>
+## 🚀 À propos de moi
 
-<p align="">
-    <!-- Angular -->
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
-    <!-- Spring Boot -->
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="55" height="55"/>
-    <!-- Vue.js -->
-    <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="Vue.js" width="55" height="55"/> 
-    <!-- Node.js -->
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="55" height="55"/> 
-    <!-- PHP -->
-    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="70" height="55"/>
-    <!-- MySQL -->
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="70" height="55"/>
-    <!-- MongoDB -->
-    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="70" height="55"/>
-    <!-- Git -->
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/> 
-    <!-- Linux -->
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="55" height="55"/> 
+🎯 Développeur Full Stack passionné par la conception d’applications performantes et évolutives.  
+💡 Expérience dans la migration d’applications et le développement de solutions métier.  
+🏥 Participation à des projets ERP hospitaliers et plateformes web.  
+🌍 Basé à Casablanca, Maroc.  
+
+---
+
+## 🛠️ Stack Technique
+
+### 🔹 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,vue,js,ts,html,css" />
 </p>
+
+### 🔹 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,php" />
+</p>
+
+### 🔹 Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,linux,docker" />
+</p>
+
+---
+
+## 📈 Ce que je fais actuellement
+
+- 🔭 Développement et migration d’applications vers des architectures modernes  
+- ⚙️ Conception d’APIs REST avec Spring Boot  
+- 🎨 Interfaces dynamiques avec Angular  
+- 🧩 Intégration frontend/backend via RESTful APIs  
+
+---
+
+## 🌎 Langues
+
+- 🇫🇷 Français  
+- 🇬🇧 Anglais  
+- 🇲🇦 Arabe  
+
+---
+
+## 🤝 Collaboration
+
+Je suis ouvert aux opportunités en :
+- Développement Full Stack
+- Développement Frontend Angular
+- Projets Java / Spring Boot
+- Missions freelance techniques
+
+---
+
+⭐ N'hésitez pas à explorer mes repositories et à me contacter !
